@@ -14,7 +14,7 @@ How-to-use description should be within individual files, however this is a broa
 		- Mode 4: arc length continuation
 		- Mode 5: transformed data for het1
 
-	### cont_df.m 
+	** cont_df.m **
 		- function for fsolve, produces jacobian as well for u = [b; v; s]. Does not yet include parameter theta. can debug (look for irregular errors) in continuation.m mode 1.
 
 	### cont_dz.m 
