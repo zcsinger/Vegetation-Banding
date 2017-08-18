@@ -14,11 +14,13 @@ There are many instances in nature where vegetation growth in dryland environmen
 At the end of the project a LaTeX document will accompany the files for full exposition.
 
 ## Main Components
-
+'''
 -simulation
    -continuation
    -direct\_sim
-
+-continuation
+-sim\_code
+'''
 ### simulation (most updated folder)
 
 **continuation:** In the continuation folder there are implmementations of numerical arclength continuation used to find heteroclinic orbits for a scaled version of the system above.  
