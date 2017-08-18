@@ -6,12 +6,16 @@ The following are code excerpts as part of a Mathematics REU. Numerical simulati
 
 ## Background on Project
 
-There are many instances in nature where vegetation growth in dryland environments displays a band-like pattern formation. Our goal is to expand on the work done for a simple model between *w* the water concentration and *b* the biomass concentration. 
+There are many instances in nature where vegetation growth in dryland environments displays a band-like pattern formation. Consider a closed two species diffusion-reaction system inspired by the work of Turing and Klausmeier. The goal is to expand on the work done for a simple model between *w* the water concentration and *b* the biomass concentration. 
 
 <img src="https://latex.codecogs.com/gif.latex?b_t=b_{xx}+wb^2-b"/>
 <img src="https://latex.codecogs.com/gif.latex?w_t=cw_x-wb^2+b"/>
 
 At the end of the project a LaTeX document will accompany the files for full exposition.
+
+## Layman's Terms
+
+I'm looking at a model of water and plants on a hill with the water going down the hill due to the slope and the plants spreading out. There's an more complicated nonlinear relationship between how plants and water interact with each other, and there are two main ways to simulate this whole system: Directly or by transforming to a simpler system and following the solution carefully along a (potentially twisted and sharp) path.
 
 ## Main Components
 ```
