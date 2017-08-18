@@ -16,8 +16,8 @@ At the end of the project a LaTeX document will accompany the files for full exp
 ## Main Components
 
 -simulation
-  -continuation
-  -direct\_sim
+   -continuation
+   -direct\_sim
 
 ### simulation (most updated folder)
 
