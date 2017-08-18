@@ -2,7 +2,7 @@
 
 ## Overview
 
-The following are code excerpts as part of a Mathematics REU. Numerical simulations written in MATLAB include arclength continuation methods, direct simulation of a system of partial differential equations using finite differences, and programs for generating figures.
+This project was part of a summer undergraduate research project for modeling complex systems found in nature. Numerical simulations written in MATLAB include arclength continuation methods, direct simulation of a system of partial differential equations using finite differences, and programs for generating figures.
 
 ## Background on Project
 
