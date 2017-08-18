@@ -25,11 +25,11 @@ As it turns out, both cases show that there's an interesting pattern where the v
 
 ## Main Components
 ```
--simulation
-   -continuation
-   -direct\_sim
--continuation
--sim\_code
+- simulation
+   - continuation
+   - direct_sim
+- continuation
+- sim_code
 ```
 ### simulation (most updated folder)
 
