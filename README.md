@@ -28,8 +28,6 @@ As it turns out, both cases show that there's an interesting pattern where the v
 - simulation
    - continuation
    - direct_sim
-- continuation
-- sim_code
 ```
 ### simulation (most updated folder)
 
