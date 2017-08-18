@@ -15,13 +15,13 @@ At the end of the project a LaTeX document will accompany the files for full exp
 
 ## Layman's Terms
 
-I'm looking at a model of water and plants on a hill with the water going down the hill due to the slope and the plants spreading out. There's a more complicated nonlinear relationship between how plants and water interact with each other, and there are two main ways to simulate this whole system: 
+I'm looking at a model of water and plants on a hill where the water (naturally) travels down the hill and the plants spread out. There's a more complicated nonlinear relationship between how plants and water interact with each other, and there are two main ways to simulate this whole system: 
 
 1.   Directly using a mesh for time and space.
 
 2.   Transforming to a simpler system and following the solution carefully along a (potentially twisted and sharp) path. 
 
-Depending on how much vegetation/water we started with, both cases show that there's an interesting pattern where the vegetation and water concentrations move up the hill as a block with a speed *s*.
+Depending on how much vegetation/water we started with, both cases show that there's an interesting pattern where the vegetation and water concentrations move up the hill as a block with a speed *s*. This agrees with an ecological phenomena where bands of vegetation will mysteriously travel uniformly uphill over (long periods of) time.
 
 ## Main Components
 ```
